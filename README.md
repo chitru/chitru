@@ -1,1 +1,1 @@
-![alt text](https://github.com/chitru/chitru/hithere.png?raw=true)
+![welcome image](https://github.com/chitru/chitru/blob/main/hithere.png?raw=true)
